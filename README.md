@@ -19,7 +19,7 @@ https://startling-mooncake-efccdc.netlify.app/
 
 ## Installation
 
-- copy this https://github.com/aasimsyed97/SugarCosmetics01.git
+- copy this https://github.com/sunnylalwani41/Sugar_Cosmetics_Clone_Website.git
 - Select path where you want to store the project in your pc
 - open the corresponding file / folder with editor
 - open terminal of your editor
