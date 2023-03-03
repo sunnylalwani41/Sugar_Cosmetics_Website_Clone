@@ -2,8 +2,7 @@
 # Sugarcosmetic_clone
 
 This project is a team project of 6 members, This is an e-commerce website that sells cosmetic products. We built this cloning project
-Within 5 days and this is our first project during the Masai curriculum 
-https://startling-mooncake-efccdc.netlify.app/
+Within 5 days and this is our first project during the Masai curriculum [Sugar Cosmetics Website](https://startling-mooncake-efccdc.netlify.app/).
 
 ## Features
 
@@ -25,7 +24,7 @@ https://startling-mooncake-efccdc.netlify.app/
 - open terminal of your editor
 - use  --> git clone (paste link) <-- 
 - after project cloned to your folder
-- go to index.html inside homenavbar folder
+- go to index.html inside sugarCosmeticWeb folder
 - open with live server
     
 ## Tech Stack
